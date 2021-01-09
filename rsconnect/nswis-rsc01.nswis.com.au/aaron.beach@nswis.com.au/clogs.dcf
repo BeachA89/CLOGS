@@ -1,0 +1,12 @@
+name: clogs
+title: CLOGS
+username: aaron.beach@nswis.com.au
+account: aaron.beach@nswis.com.au
+server: nswis-rsc01.nswis.com.au
+hostUrl: https://nswis-rsc01.nswis.com.au/__api__
+appId: 55
+bundleId: 323
+url: https://nswis-rsc01.nswis.com.au/content/55/
+when: 1591077704.55877
+asMultiple: FALSE
+asStatic: FALSE
